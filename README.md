@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend React | Typescript Developer from Ukraine 🇺🇦 </h3>
 
-<h3 >I've been learning js for more than 2 years with 1 year of commercial experience.</h2>
+<h3 >I've been learning JS for more than 2 years with 1 year of commercial experience.</h2>
 <h4>Here below you can see some of my pet projects.</h3>
 
 <h3>Stack & Tools 🛠️ :</h3>
